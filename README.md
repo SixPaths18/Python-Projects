@@ -12,3 +12,6 @@ A simple 11-round Rock Paper Scissors game between the user and the bot.
 
 ### Snake Game
 A classic Snake game built with Python’s turtle module where you control the snake with arrow keys to eat apples, grow, and avoid crashing.
+
+### Alarm
+A simple Python Turtle-based alarm clock with a visual digital display and clickable alarm setter.
