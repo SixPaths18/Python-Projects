@@ -15,3 +15,6 @@ A classic Snake game built with Python’s turtle module where you control the s
 
 ### Alarm
 A simple Python Turtle-based alarm clock with a visual digital display and clickable alarm setter.
+
+### Calculator
+A simple GUI calculator built using Python's turtle graphics module.
