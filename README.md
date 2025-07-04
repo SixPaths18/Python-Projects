@@ -18,3 +18,6 @@ A simple Python Turtle-based alarm clock with a visual digital display and click
 
 ### Calculator
 A simple GUI calculator built using Python's turtle graphics module.
+
+### Tic, Tac, Toe
+A simple Turtle graphics-based Tic Tac Toe game where you play X against a random-move O opponent.
