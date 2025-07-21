@@ -24,3 +24,6 @@ A simple Turtle graphics-based Tic Tac Toe game where you play X against a rando
 
 ### Hangman
 A simple Turtle-based Hangman game where you guess letters to save the stick figure from being drawn completely!
+
+### Golden Fibonacci Spiral
+Draws a white Fibonacci spiral on a black background using Python's Turtle graphics.
