@@ -21,3 +21,6 @@ A simple GUI calculator built using Python's turtle graphics module.
 
 ### Tic, Tac, Toe
 A simple Turtle graphics-based Tic Tac Toe game where you play X against a random-move O opponent.
+
+### Hangman
+A simple Turtle-based Hangman game where you guess letters to save the stick figure from being drawn completely!
