@@ -30,3 +30,6 @@ Draws a white Fibonacci spiral on a black background using Python's Turtle graph
 
 ### Password Strength Checker
 A simple Python script that analyzes a password’s length, character variety, and pattern safety to score and display its overall strength.
+
+### Temperature Converter
+A simple temperature conversion tool that lets users choose a conversion type and instantly converts between Celsius, Fahrenheit, and Kelvin.
