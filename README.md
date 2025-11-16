@@ -27,3 +27,6 @@ A simple Turtle-based Hangman game where you guess letters to save the stick fig
 
 ### Golden Fibonacci Spiral
 Draws a white Fibonacci spiral on a black background using Python's Turtle graphics.
+
+### Password Strength Checker
+A simple Python script that analyzes a password’s length, character variety, and pattern safety to score and display its overall strength.
