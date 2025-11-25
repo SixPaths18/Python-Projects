@@ -33,3 +33,6 @@ A simple Python script that analyzes a password’s length, character variety, a
 
 ### Temperature Converter
 A simple temperature conversion tool that lets users choose a conversion type and instantly converts between Celsius, Fahrenheit, and Kelvin.
+
+### OOP Report Card
+A simple OOP-based Python program that stores a student's grades and displays their subject marks and average score.
