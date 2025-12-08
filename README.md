@@ -39,3 +39,6 @@ A simple OOP-based Python program that stores a student's grades and displays th
 
 ### Password Generator
 Generates a secure, random 12–16 character password with letters, numbers, and symbols.
+
+### Typing Speed Test
+Basic typing practice to test your speed and accuracy with random sentences.
