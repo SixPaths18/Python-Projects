@@ -42,3 +42,6 @@ Generates a secure, random 12–16 character password with letters, numbers, and
 
 ### Typing Speed Test
 Basic typing practice to test your speed and accuracy with random sentences.
+
+### Simple Calendar
+A Python program that displays the calendar for any month of any year.
