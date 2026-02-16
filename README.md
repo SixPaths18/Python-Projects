@@ -48,3 +48,6 @@ A Python program that displays the calendar for any month of any year.
 
 ### Simple Multiplication Table
 A simple Python program that prints the multiplication table for any number you choose.
+
+### Quote of the Day
+A simple Python Quote of the Day generator.
