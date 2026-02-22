@@ -52,5 +52,5 @@ A simple Python program that prints the multiplication table for any number you 
 ### Quote of the Day
 A simple Python Quote of the Day generator.
 
-### Dice SImulator
+### Dice Simulator
 A simple Python dice-rolling simulator that generates a random number from 1 to 6 until you choose to exit.
