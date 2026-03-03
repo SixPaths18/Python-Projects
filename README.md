@@ -54,3 +54,6 @@ A simple Python Quote of the Day generator.
 
 ### Dice Simulator
 A simple Python dice-rolling simulator that generates a random number from 1 to 6 until you choose to exit.
+
+### File Organizer
+A simple Python file organizer that sorts files into folders based on their extensions.
