@@ -57,3 +57,6 @@ A simple Python dice-rolling simulator that generates a random number from 1 to 
 
 ### File Organizer
 A simple Python file organizer that sorts files into folders based on their extensions.
+
+### Word Frequency Analyzer
+Counts the frequency of each word in a paragraph and displays a simple bar chart.
